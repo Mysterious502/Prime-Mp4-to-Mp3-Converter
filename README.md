@@ -184,7 +184,7 @@ npm run dev
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Mysterious](https://github.com/Mysterious502)
 
 ---
 
