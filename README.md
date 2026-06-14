@@ -78,7 +78,7 @@ If you'd rather do it manually, download it from [ffmpeg.org/download.html](http
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/prime-mp4-to-mp3.git
+git clone https://github.com/Mysterious502/Prime-Mp4-to-Mp3-Converter
 
 # Go into the project folder
 cd prime-mp4-to-mp3
